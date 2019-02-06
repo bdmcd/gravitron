@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pointer.png</file>
+    </qresource>
+</RCC>

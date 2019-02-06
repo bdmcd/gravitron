@@ -1,0 +1,28 @@
+{
+    "Player" : {
+        "mass": 5
+    },
+
+    "Target" : {
+        "radius": 15,
+        "x": 300,
+        "y": 30
+    },
+
+    "planets" : [
+        {
+            "mass": 100,
+            "x": 300,
+            "y": 300
+        }
+    ],
+
+    "moving planets" : [
+    ],
+
+    "bonuses" : [
+    ],
+
+    "wormholes" : [
+    ]
+}

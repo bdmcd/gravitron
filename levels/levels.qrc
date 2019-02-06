@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test1.json</file>
+        <file>test2.json</file>
+        <file>test3.json</file>
+        <file>level1.json</file>
+        <file>level2.json</file>
+        <file>level3.json</file>
+        <file>level4.json</file>
+        <file>level5.json</file>
+        <file>level6.json</file>
+        <file>level7.json</file>
+        <file>level8.json</file>
+        <file>level9.json</file>
+        <file>level10.json</file>
+        <file>level11.json</file>
+        <file>level12.json</file>
+        <file>level13.json</file>
+    </qresource>
+</RCC>

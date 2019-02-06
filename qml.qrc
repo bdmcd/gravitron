@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Bonus.qml</file>
+        <file>Bubble.qml</file>
+        <file>BuildLevel.qml</file>
+        <file>Compass.qml</file>
+        <file>Game.qml</file>
+        <file>Level.qml</file>
+        <file>MovingPlanet.qml</file>
+        <file>Planet.qml</file>
+        <file>PlanetBase.qml</file>
+        <file>Player.qml</file>
+        <file>Target.qml</file>
+        <file>Wormhole.qml</file>
+    </qresource>
+</RCC>
